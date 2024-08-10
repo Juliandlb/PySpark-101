@@ -1,4 +1,7 @@
-# Apache Spark
+# PySpark-101
+A repository showing the fundamentals of PySpark
+
+## Apache Spark
 
 Apache Spark is an open-source, unified analytics engine for large-scale data processing and machine learning. It provides high-level APIs in Java, Python, Scala, and R, and an optimized engine that supports general computation graphs for data analysis.
 
@@ -15,7 +18,7 @@ Apache Spark is an open-source, unified analytics engine for large-scale data pr
 - MLlib: A machine learning library, providing algorithms for classification, regression, clustering, and more.
 - GraphX: A module for graph processing and analytics.
 
-# PySpark
+## PySpark
 
 PySpark is the Python API for Apache Spark, allowing Python developers to write Spark applications using Python. It provides a seamless integration with Spark's engine, enabling data processing, machine learning, and data analytics.
 Key Features:
